@@ -15,5 +15,12 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "cryptiles": "^4.1.2",
+    "deep-extend": "^0.6.0",
+    "macaddress": "^0.2.9",
+    "randomatic": "^3.1.0",
+    "url-parse": "^1.4.3"
   }
 }
